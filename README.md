@@ -1,7 +1,7 @@
 # 🚀 Flutter Custom TabBar with CustomPainter 🎨
 
 **একটি Pure Flutter Project** — এখানে **CustomPainter** দিয়ে বানানো একটি Flexible TabBar আছে যা ১, ২ অথবা ৩টি Tab এর জন্য compatible!
-
+assets/tab_bar.gif
 ---
 
 ## 📌 Features
