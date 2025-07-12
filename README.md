@@ -22,7 +22,6 @@
 |-------|--------|--------|
 | ![1 Tab](assets/1_tab.png) | ![2 Tabs](assets/2_tabs.png) | ![3 Tabs](assets/3_tabs.png) |
 
-*(Screenshots replace করতে তোমার নিজের ছবি দাও!)*
 
 ---
 
@@ -38,7 +37,7 @@
 ## 🏗️ Installation
 
 ```bash
-git clone https://github.com/yourusername/custom_tabbar_flutter.git
+git clone https://github.com/alamincse6615/flutter_custom_tab_bar
 cd custom_tabbar_flutter
 flutter pub get
 flutter run
